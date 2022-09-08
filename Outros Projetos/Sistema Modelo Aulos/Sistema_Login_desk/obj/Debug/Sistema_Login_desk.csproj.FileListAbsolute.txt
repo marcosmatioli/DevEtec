@@ -1,0 +1,66 @@
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.exe.config
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.exe
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.pdb
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Form1.resources
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.View.Menu.resources
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.exe
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.pdb
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.View.CadastreSe.resources
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Form1.resources
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.View.Menu.resources
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.exe.config
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.exe
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.pdb
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.exe
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.pdb
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.View.frm_funcionario.resources
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Splash.resources
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\DADOS_2\Sistema_Login_desk\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.exe.config
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.exe
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.pdb
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Splash.resources
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.View.frm_funcionario.resources
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Form1.resources
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.View.Menu.resources
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.exe
+C:\Users\Lenovo\Desktop\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.pdb
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.exe.config
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.exe
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\Sistema_Login_desk.pdb
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\Interop.WMPLib.dll
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\bin\Debug\AxInterop.WMPLib.dll
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csprojAssemblyReference.cache
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Interop.WMPLib.dll
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\AxInterop.WMPLib.dll
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.ResolveComReference.cache
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Splash.resources
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.View.frm_funcionario.resources
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Form1.resources
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.Properties.Resources.resources
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.View.Menu.resources
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.GenerateResource.cache
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.csproj.CoreCompileInputs.cache
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.exe
+E:\SISTEMA MODELO ALUNOS\Sistema_Login_desk\obj\Debug\Sistema_Login_desk.pdb

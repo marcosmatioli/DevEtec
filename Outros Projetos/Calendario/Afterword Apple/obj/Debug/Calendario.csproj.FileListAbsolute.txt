@@ -1,0 +1,25 @@
+C:\_C#\Calendario\Calender\Afterword Apple\bin\Debug\Afterword Apple.exe
+C:\_C#\Calendario\Calender\Afterword Apple\bin\Debug\Afterword Apple.pdb
+C:\_C#\Calendario\Calender\Afterword Apple\obj\Debug\ResolveAssemblyReference.cache
+C:\_C#\Calendario\Calender\Afterword Apple\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\_C#\Calendario\Calender\Afterword Apple\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\_C#\Calendario\Calender\Afterword Apple\obj\Debug\Calendario.csproj.GenerateResource.Cache
+C:\_C#\Calendario\Calender\Afterword Apple\obj\Debug\Afterword Apple.exe
+C:\_C#\Calendario\Calender\Afterword Apple\obj\Debug\Afterword Apple.pdb
+C:\_C#\Calendario\Calendario\Afterword Apple\bin\Debug\Calendario.exe
+C:\_C#\Calendario\Calendario\Afterword Apple\bin\Debug\Calendario.pdb
+C:\_C#\Calendario\Calendario\Afterword Apple\obj\Debug\ResolveAssemblyReference.cache
+C:\_C#\Calendario\Calendario\Afterword Apple\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\_C#\Calendario\Calendario\Afterword Apple\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\_C#\Calendario\Calendario\Afterword Apple\obj\Debug\Calendario.csproj.GenerateResource.Cache
+C:\_C#\Calendario\Calendario\Afterword Apple\obj\Debug\Calendario.exe
+C:\_C#\Calendario\Calendario\Afterword Apple\obj\Debug\Calendario.pdb
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\bin\Debug\Calendario.exe
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\bin\Debug\Calendario.pdb
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\obj\Debug\Calendario.csprojAssemblyReference.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\obj\Debug\Calendario.csproj.GenerateResource.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\obj\Debug\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\obj\Debug\Calendario.exe
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\Calendario\Afterword Apple\obj\Debug\Calendario.pdb

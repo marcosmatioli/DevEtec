@@ -1,0 +1,20 @@
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\bin\Debug\ProjetoCity.exe.config
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\bin\Debug\ProjetoCity.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\bin\Debug\ProjetoCity.pdb
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.Form1.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.Properties.Resources.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.csproj.GenerateResource.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Workspace_Marcos_Nathan\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.pdb
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\bin\Debug\ProjetoCity.exe.config
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\bin\Debug\ProjetoCity.exe
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\bin\Debug\ProjetoCity.pdb
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.csprojAssemblyReference.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.Form1.resources
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.Properties.Resources.resources
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.csproj.GenerateResource.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.csproj.CoreCompileInputs.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.exe
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\ProjetoCity\ProjetoCity\obj\Debug\ProjetoCity.pdb

@@ -1,0 +1,10 @@
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\obj\Debug\Veiculo.csprojAssemblyReference.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\obj\Debug\Veiculo.Form1.resources
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\obj\Debug\Veiculo.Properties.Resources.resources
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.GenerateResource.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\obj\Debug\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\bin\Debug\Veiculo.exe.config
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\bin\Debug\Veiculo.exe
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\bin\Debug\Veiculo.pdb
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\obj\Debug\Veiculo.exe
+C:\Users\Matiasus\Desktop\TCM\Outros Projetos\veiculo\Veiculo\Veiculo\obj\Debug\Veiculo.pdb

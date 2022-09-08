@@ -1,0 +1,10 @@
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\bin\Debug\Grid.exe.config
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\bin\Debug\Grid.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\bin\Debug\Grid.pdb
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\obj\Debug\Grid.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\obj\Debug\Grid.FormGrid.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\obj\Debug\Grid.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Luan\BANCO\Grid\Grid\obj\Debug\Grid.pdb

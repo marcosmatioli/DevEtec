@@ -1,0 +1,12 @@
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola Cadastro.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola_Cadastro.Form1.resources
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola_Cadastro.Properties.Resources.resources
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola_Cadastro.TelaCadastroo.resources
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola_Cadastro.TelaPrincipal.resources
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola Cadastro.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\bin\Debug\Escola Cadastro.exe.config
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\bin\Debug\Escola Cadastro.exe
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\bin\Debug\Escola Cadastro.pdb
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola Cadastro.exe
+C:\Users\Micha\source\repos\Escola Cadastro\Escola Cadastro\obj\Debug\Escola Cadastro.pdb
